@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+ <h4 align="center">Competitive Programmer | Python | React Js | </h4>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>
 
@@ -9,9 +11,9 @@
 
 - 🔭 I’m currently working on [Whatsapp Automation](https://github.com/Ananya-0306?tab=projects)
 
-- 🌱 I’m currently learning **TensorFlow, PyTorch, Keras, DL4J**
+- 🌱 I’m currently learning **TensorFlow, PyTorch, Keras, DL4J, Docker, CNN**
 
-- 👯 I’m looking to collaborate on [Whatsapp Automation](https://github.com/Ananya-0306?tab=projects)
+- 👯 I'm looking to collaborate on Open source project for Hacktoberfest
 
 - 🤝 I’m looking for help with [J.A.R.V.I.S](https://github.com/Ananya-0306/Jarvis-desktop-assistant)
 

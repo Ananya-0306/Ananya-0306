@@ -3,9 +3,9 @@
  <h4 align="center">Competitive Programmer | Python | React Js | </h4>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananya-0306" alt="ananya-0306" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananya-0306" alt="ananya-0306" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ananya28563786" target="blank"><img src="https://img.shields.io/twitter/follow/ananya28563786?logo=twitter&style=for-the-badge" alt="ananya28563786" /></a> </p>
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ananya-0306?tab=repositories](https://github.com/Ananya-0306?tab=repositories)
 
-- 💬 Ask me about **React, python whatever you want just ping me :)**
+- 💬 **Ask me about anything, I'll be happy to help :)**
 
 - 📫 How to reach me **ananyachatterjee495@gmail.com**
 

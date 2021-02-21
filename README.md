@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ananya-0306?tab=repositories](https://github.com/Ananya-0306?tab=repositories)
 
-- 💬 Ask me about **react, python, aws, and salesforce**
+- 💬 Ask me about **open source project, python, cloud computing, and Ethical hacking**
 
 - 📫 How to reach me **ananyachatterjee495@gmail.com**
 

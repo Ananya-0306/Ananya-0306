@@ -28,7 +28,6 @@
 <a href="https://codepen.io/ananya-0306" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ananya-0306" height="30" width="40" /></a>
 <a href="https://dev.to/ananya0306" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ananya0306" height="30" width="40" /></a>
 <a href="https://twitter.com/ananya28563786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ananya28563786" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ananya-chatterjee-125223172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ananya-chatterjee-125223172/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ananya-chatterjee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ananya-chatterjee" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100015892354534" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=100015892354534" height="30" width="40" /></a>
 <a href="https://instagram.com/_iananya__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_iananya__" height="30" width="40" /></a>

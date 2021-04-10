@@ -61,3 +61,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-0306&show_icons=true&locale=en" alt="ananya-0306" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-0306&" alt="ananya-0306" /></p>
+<br />
+<br />
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repository!</h3>
+
+---
+<img align="left" alt="Dog" width="" src="tenor.gif" />
+<img align="right" alt="Dog" width="" src="tenor.gif" />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hritikhere/count.svg" />
+</p>
+
+<br />
+<br />
+
+---

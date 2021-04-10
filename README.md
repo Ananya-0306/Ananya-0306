@@ -9,7 +9,7 @@
 	<a href="https://twitter.com/AnanyaC15848288"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 <p align="center">
-    <img width="48%" src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" />
+    <img width="48%" src="https://github.com/Ananya-0306/Ananya-0306/blob/main/tenor%20(2).gif" alt="Github Swag" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>

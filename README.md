@@ -3,10 +3,10 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-	<a href="https://github.com/imakash3011"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.facebook.com/imakash3011/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/imakash3011"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+	<a href="https://github.com/Ananya-0306"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100015892354534"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/_iananya__/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://twitter.com/AnanyaC15848288"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 <p align="center">
     <img width="48%" src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" />

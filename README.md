@@ -1,6 +1,5 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 <h1 align="center">Hi 👋, I'm Ananya</h1>
----
 <h3 align="center">A passionate Software developer from India</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">

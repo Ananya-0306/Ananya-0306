@@ -41,6 +41,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are you worried about your website under attack?](https://develover.hashnode.dev/secure-your-wordpress-website)
 - [Google removes a fake ‘Netflix’ app that’s been spreading malware via WhatsApp](https://develover.hashnode.dev/fake-netflix-app)
 - [Great talk by Sam Julien](https://develover.hashnode.dev/great-talk-by-sam-julien)
 - [How I created a MEME bot using python](https://develover.hashnode.dev/how-i-created-a-meme-bot-using-python)

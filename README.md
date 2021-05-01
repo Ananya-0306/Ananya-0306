@@ -17,6 +17,7 @@
 - 🔭 I’m currently working on [Whatsapp Automation](https://github.com/Ananya-0306?tab=projects)
 
 - 🌱 I’m currently learning **TensorFlow, Cybersecurity, Keras, DL4J**
+- 💬 Join me for Hackthon Update [ Discord Server](https://discord.gg/ahkjQxUv)
 
 - 👯 I’m looking to collaborate on [Whatsapp Automation](https://github.com/Ananya-0306?tab=projects)
 

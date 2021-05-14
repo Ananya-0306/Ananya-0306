@@ -1,7 +1,7 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 <h1 align="center">Hi 👋, I'm Ananya</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"></h3>
 <p align="center">
 	<a href="https://github.com/Ananya-0306"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100015892354534"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>

@@ -19,6 +19,15 @@
 - 📫 How to reach me **ananyachatterjee495@gmail.com**
 
 ---
+ <p>
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
+ 
+### Girls Scout Rule
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the girlscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+
+ ---
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -40,9 +49,10 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### My Digital Garden 🌱
 
 <!-- BLOG-POST-LIST:START -->
+I write regular blog posts, most of which you will find on my personal website [Dark Web](https://develover.hashnode.dev/)
 - [Are you worried about your website under attack?](https://develover.hashnode.dev/secure-your-wordpress-website)
 - [Google removes a fake ‘Netflix’ app that’s been spreading malware via WhatsApp](https://develover.hashnode.dev/fake-netflix-app)
 - [Great talk by Sam Julien](https://develover.hashnode.dev/great-talk-by-sam-julien)

@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>
 
 - 💡   I create blog posts and open source packages mainly about python and data engineering. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on https://develover.hashnode.dev/. If you found value in something I have created, please feel free to send a tip, give me a shout out https://www.instagram.com/_iananya__/, give some ♥ on https://develover.hashnode.dev/, and sign up for my newsletter at https://develover.hashnode.dev/ I would love to see you join.
-- 💬 Join me for Hackthon Update [ Discord Server](https://discord.gg/tZh6ZMQ6)
+- 💬 Join me for Hackthon Update [ Discord Server](https://discord.gg/m9k68ZMq)
 - 📫 How to reach me **ananyachatterjee495@gmail.com**
 
 ---

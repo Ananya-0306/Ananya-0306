@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Ananya-0306/Ananya-0306/blob/main/at%20A%20passionate%20Software%20developer%20from%20India%20(2)%20(1).png" alt="Ananya chatterjee is here" />
+    <img src="https://github.com/Ananya-0306/Ananya-0306/blob/main/WhatsApp%20Image%202021-07-08%20at%209.28.06%20AM.jpeg" alt="Ananya chatterjee is here" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>

@@ -1,15 +1,15 @@
 <h1 align="center">Hey I'm Ananya Chatterjee <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center">Changing the world one pixel at a time!</h2>
-- [You like what you see? Then nominate me for GitHub Stars!](https://stars.github.com/nominate/)
+<p align="center">You like what you see? Then nominate me for GitHub Stars!(https://stars.github.com/nominate/)</p>
 <img src="https://github.com/Ananya-0306/Ananya-0306/blob/main/WhatsApp%20Image%202021-07-08%20at%209.28.06%20AM.jpeg" alt="Ananya chatterjee is here" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>
-
+         <!-- About me -->
+									       
 - 💡   I create blog posts and open source packages mainly about python and data engineering. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on https://develover.hashnode.dev/. If you found value in something I have created, please feel free to send a tip, give me a shout out https://www.instagram.com/_iananya__/, give some ♥ on https://develover.hashnode.dev/, and sign up for my newsletter at https://develover.hashnode.dev/ I would love to see you join.
-- 💬 Join me for Hackthon Update [ Discord Server](https://discord.gg/m9k68ZMq)
-- 📫 How to reach me **ananyachatterjee495@gmail.com**
-
+- 💬 Join our [WhatSapp Group](https://chat.whatsapp.com/EAmE5Mg3krv9d1QEK8Yx5a)
+- 📫 How to reach me **thelinuxgirl575@gmail.com**
 ---
+
 <h3 align="center">Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"></h3>
 <p align="center">
 	<a href="https://github.com/Ananya-0306"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
@@ -17,9 +17,7 @@
 	<a href="https://www.instagram.com/_iananya__/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/AnanyaC15848288"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
- <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
-</p>
+ <p><img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true"></p>
  
 ### Girls Scout Rule
 

@@ -8,7 +8,7 @@
 - 💡   I create blog posts and open source packages mainly about python and data engineering. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on https://develover.hashnode.dev/. If you found value in something I have created, please feel free to send a tip, give me a shout out https://www.instagram.com/_iananya__/, give some ♥ on https://develover.hashnode.dev/, and sign up for my newsletter at https://develover.hashnode.dev/ I would love to see you join.
 - 💬 Join our [WhatSapp Group](https://chat.whatsapp.com/EAmE5Mg3krv9d1QEK8Yx5a)
 - 📫 How to reach me **hiddenghostwillkillyou@protonmail.com**
----
+----
 
 <h3 align="center">Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"></h3>
 <p align="center">

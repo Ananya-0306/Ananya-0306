@@ -1,4 +1,5 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Ananya Chatterjee](https://www.linkedin.com/in/ananya-chatterjee-%F0%9F%87%AE%F0%9F%87%B3-125223172/)
+## I am a management consultant by Day & Researcher by Night. In between, I squeeze in some travel. To stay sane. To connect with myself. To be inspired.
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
@@ -17,7 +18,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>
          <!-- About me -->
 									       
-- 💡 I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on [Hashnode](https://develover.hashnode.dev/). If you found value in something I have created, please feel free to send a tip, give me a shout out on [Instagram](https://www.instagram.com/_iananya__/), and sign up for my newsletter at [Hacksociety](https://hacksociety.biz) I would love to see you join.
+- 💡What can I tell you about myself? I dream a lot sometimes they come true :) Like writing poetry, like paintings, like loving a few precious people. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on [Hashnode](https://develover.hashnode.dev/). If you found value in something I have created, please feel free to send a tip, give me a shout out on [Instagram](https://www.instagram.com/_iananya__/), and sign up for my newsletter at [Hacksociety](https://hacksociety.biz) I would love to see you join.
 - 💬I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
 - 📫 How to reach me **hiddenghostwillkillyou@protonmail.com**
 ----

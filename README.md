@@ -1,5 +1,5 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Ananya Chatterjee](https://www.linkedin.com/in/ananya-chatterjee-%F0%9F%87%AE%F0%9F%87%B3-125223172/)
-## I am a management consultant by Day & Researcher by Night. In between, I squeeze in some travel. To stay sane. To connect with myself. To be inspired.
+## I am a cybersecurity researcher by Day & student by Night. In between, I squeeze in some travel. To stay sane. To connect with myself. To be inspired.
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]

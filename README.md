@@ -25,7 +25,7 @@
 - 📫 How to reach me **hiddenghostwillkillyou@protonmail.com**
 ----
 <!--Tech Stack -->
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack 
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>

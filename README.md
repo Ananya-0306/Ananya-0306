@@ -1,4 +1,4 @@
-# [Hi <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I am Ananya Chatterjee](https://www.linkedin.com/in/ananya-chatterjee-%F0%9F%87%AE%F0%9F%87%B3-125223172/)
+# [Hi I am Ananya Chatterjee](https://www.linkedin.com/in/ananya-chatterjee-%F0%9F%87%AE%F0%9F%87%B3-125223172/)
 ## I am a cybersecurity researcher by Day & student by Night. In between, I squeeze in some travel. To stay sane. To connect with myself. To be inspired.
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star:
 

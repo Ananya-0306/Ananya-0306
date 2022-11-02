@@ -49,7 +49,7 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
 
 <!-- Blog -->
-### My Digital Garden 🌱
+### My Digital Garden 🏡🌱
 
 <!-- BLOG-POST-LIST:START -->
 I write regular blog posts, most of which you will find on my personal website [Dark Web](https://develover.hashnode.dev/)

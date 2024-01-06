@@ -1,8 +1,8 @@
 # [Hi I am Ananya Chatterjee 🤦‍♀️](https://www.linkedin.com/in/ananya-chatterjee-%F0%9F%87%AE%F0%9F%87%B3-125223172/)
-## I am a cybersecurity researcher by Day & student by Night. In between, I squeeze in some travel. To stay sane. To connect with myself. To be inspired.
+## I am a cybersecurity researcher by Day & student by Night. In between, I squeeze in some travel. To stay sane. To connect with me. To be inspired.
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star:
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
 [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode]
 [<img height="30" src="https://img.shields.io/badge/linkedin-red.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -11,7 +11,7 @@
 <hr />
 
 [twitter]: https://twitter.com/AnanyaC15848288
-[Instagram]: https://www.instagram.com/_iananya__/
+[Instagram]: https://www.instagram.com/ananya_chatterjeeee?igsh=MXY4YjB4aDhrNHA1OA==
 [Hashnode]: https://develover.hashnode.dev/
 [linkedin]: https://www.linkedin.com/in/ananya-chatterjee-%F0%9F%87%AE%F0%9F%87%B3-125223172/
 [Facebook]: https://www.facebook.com/profile.php?id=100015892354534

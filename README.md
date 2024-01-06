@@ -1,8 +1,8 @@
 # [Hi I am Ananya Chatterjee 🤦‍♀️](https://www.linkedin.com/in/ananya-chatterjee-%F0%9F%87%AE%F0%9F%87%B3-125223172/)
-## I am a cybersecurity researcher by Day & student by Night. In between, I squeeze in some travel. To stay sane. To connect with myself. To be inspired.
+## I am a cybersecurity researcher by Day & student by Night. In between, I squeeze in some travel. To stay sane. To connect with me. To be inspired.
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star:
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
 [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode]
 [<img height="30" src="https://img.shields.io/badge/linkedin-red.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -11,7 +11,7 @@
 <hr />
 
 [twitter]: https://twitter.com/AnanyaC15848288
-[Instagram]: https://www.instagram.com/_iananya__/
+[Instagram]: [https://www.instagram.com/_iananya__/](https://www.instagram.com/ananya_chatterjeeee/?igsh=MXY4YjB4aDhrNHA1OA%3D%3D)
 [Hashnode]: https://develover.hashnode.dev/
 [linkedin]: https://www.linkedin.com/in/ananya-chatterjee-%F0%9F%87%AE%F0%9F%87%B3-125223172/
 [Facebook]: https://www.facebook.com/profile.php?id=100015892354534
@@ -20,8 +20,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>
          <!-- About me -->
 									       
-- 💡What can I tell you about myself? I dream a lot sometimes they come true :) Like writing poetry, like paintings, like loving a few precious people. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on [Hashnode](https://develover.hashnode.dev/). If you found value in something I have created, please feel free to send a tip, give me a shout out on [Instagram](https://www.instagram.com/_iananya__/), and sign up for my newsletter at [Hacksociety]([https://hacksociety.biz](https://www.hackittech.com/Hac-Society/index.html)) I would love to see you join.
-- 💬I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
+- 💡What can I tell you about myself? I dream a lot sometimes they come true :) Like writing poetry, like paintings, like loving a few precious people. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on [Hashnode](https://develover.hashnode.dev/). If you found value in something I have created, please feel free to send a tip, give me a shout-out on [Instagram]([https://www.instagram.com/_iananya__/](https://www.instagram.com/ananya_chatterjeeee/?igsh=MXY4YjB4aDhrNHA1OA%3D%3D)), and sign up for my newsletter at [Hacksociety]([https://hacksociety.biz](https://www.hackittech.com/Hac-Society/index.html)) I would love to see you join.
+- 💬I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting their programming journey.
 - 📫 How to reach me **hiddenghostwillkillyou@protonmail.com**
 ----
 <!--Tech Stack -->

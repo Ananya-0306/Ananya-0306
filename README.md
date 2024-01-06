@@ -11,7 +11,7 @@
 <hr />
 
 [twitter]: https://twitter.com/AnanyaC15848288
-[Instagram]: https://www.instagram.com/_iananya__/
+[Instagram]: https://www.instagram.com/ananya_chatterjeeee?igsh=MXY4YjB4aDhrNHA1OA==
 [Hashnode]: https://develover.hashnode.dev/
 [linkedin]: https://www.linkedin.com/in/ananya-chatterjee-%F0%9F%87%AE%F0%9F%87%B3-125223172/
 [Facebook]: https://www.facebook.com/profile.php?id=100015892354534

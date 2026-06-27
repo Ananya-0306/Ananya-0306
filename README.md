@@ -1,78 +1,139 @@
-# [Hi I am Ananya Chatterjee 🤦‍♀️](https://www.linkedin.com/in/ananya-chatterjee-%F0%9F%87%AE%F0%9F%87%B3-125223172/)
-## I am a cybersecurity researcher by Day & student by Night. In between, I squeeze in some travel. To stay sane. To connect with myself. To be inspired.
-### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star:
+<div align="center">
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
-[<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode]
-[<img height="30" src="https://img.shields.io/badge/linkedin-red.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
-<br />
-<hr />
+```
+$ whoami
+> ananya_chatterjee.exe
 
-[twitter]: https://twitter.com/AnanyaC15848288
-[Instagram]: https://www.instagram.com/_iananya__/
-[Hashnode]: https://develover.hashnode.dev/
-[linkedin]: https://www.linkedin.com/in/ananya-chatterjee-%F0%9F%87%AE%F0%9F%87%B3-125223172/
-[Facebook]: https://www.facebook.com/profile.php?id=100015892354534
+$ cat role.txt
+> Security Engineer // AppSec · IAM Governance · AI Red Teaming
 
-<img src="https://github.com/Ananya-0306/Ananya-0306/blob/main/IMG_20220104_121327.png" alt="Ananya chatterjee is here" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>
-         <!-- About me -->
-									       
-- 💡What can I tell you about myself? I dream a lot sometimes they come true :) Like writing poetry, like paintings, like loving a few precious people. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on [Hashnode](https://develover.hashnode.dev/). If you found value in something I have created, please feel free to send a tip, give me a shout out on [Instagram](https://www.instagram.com/_iananya__/), and sign up for my newsletter at [Hacksociety]([https://hacksociety.biz](https://www.hackittech.com/Hac-Society/index.html)) I would love to see you join.
-- 💬I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
-- 📫 How to reach me **hiddenghostwillkillyou@protonmail.com**
-----
-<!--Tech Stack -->
-## 🛠 &nbsp;Tech Stack 
+$ status
+> [ONLINE] currently breaking LLM agents for fun and CVEs
+```
 
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
-<a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
-<a href="https://netbeans.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/netbeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans"/> </a>  
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
-<a href="https://www.oracle.com/" target="_blank"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oracle"/> </a>
-<a href="https://colab.research.google.com/notebooks/" target="_blank"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/> </a>
-<a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> </a>
-<a href="https://docs.anaconda.com/anaconda/user-guide/tasks/integration/spyder/#:~:text=Spyder%2C%20the%20Scientific%20Python%20Development,%2C%20debugging%2C%20and%20introspection%20features.&text=Spyder%20is%20also%20pre%2Dinstalled,which%20is%20included%20in%20Anaconda." target="_blank"> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Spyder"/> </a>
-<a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-<a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2ECC71&center=true&vCenter=true&width=600&lines=mapping+attack+surfaces+since+2020;prompt+injection+enthusiast;turns+coffee+into+threat+models;your+AI+agent+is+not+as+safe+as+you+think" alt="Typing SVG" />
 
-<!-- Blog -->
-### My Digital Garden 🏡🌱
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-chatterjee-125223172/)
+[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://develover.hashnode.dev/)
+[![GitHub followers](https://img.shields.io/github/followers/Ananya-0306?style=for-the-badge&label=Followers&color=2ECC71&labelColor=000)](https://github.com/Ananya-0306?tab=followers)
 
-<!-- BLOG-POST-LIST:START -->
-I write regular blog posts, most of which you will find on my personal website [Dark Web](https://develover.hashnode.dev/)
-- [Are you worried about your website under attack?](https://develover.hashnode.dev/secure-your-wordpress-website)
-- [Google removes a fake ‘Netflix’ app that’s been spreading malware via WhatsApp](https://develover.hashnode.dev/fake-netflix-app)
-- [Great talk by Sam Julien](https://develover.hashnode.dev/great-talk-by-sam-julien)
-- [How I created a MEME bot using python](https://develover.hashnode.dev/how-i-created-a-meme-bot-using-python)
-- [Working on Open Source AI Project to Tune Models](https://develover.hashnode.dev/working-on-open-source-ai-project-to-tune-models)
-- [Future Of Cloud Computing –Trends & Predictions 2021](https://develover.hashnode.dev/future-of-cloud-computing-trends-and-predictions-2021)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://develover.hashnode.dev/)
+</div>
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-0306&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ananya's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-0306&layout=compact&theme=material-palenight" />
-</a>
-<br />
-<br />	
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repository!</h3>
+## 🛰️ root@ananya:~$ about
 
+```diff
++ 5 years deep in AppSec, IAM governance, and DevSecOps
++ Now hunting vulnerabilities in things that talk back: LLMs and AI agents
++ Currently building open-source tooling to make AI attack surfaces visible
+- Not interested in "the model is a black box" as an acceptable answer
+```
+
+I break things that talk in natural language for a living — prompt injection, leaky RAG pipelines, agents with way too much tool access. By day: IAM reviews, access governance, compliance automation. By night: making AI applications confess their architecture.
+
+---
+
+## ⚔️ Featured build
+
+<table>
+<tr>
+<td width="100%">
+
+### <img src="https://img.shields.io/badge/-LLMASM-000?style=flat-square&logo=target&logoColor=white" /> LLM Attack Surface Mapper
+
+**Most AI security tools fuzz the chat box and call it a day.**
+LLMASM goes after the architecture hiding behind it — hidden RAG proxies, leaked system prompts, agent tool chains nobody documented, shadow APIs that never made it into the docs.
+
+```bash
+pip install llmasm-ananya
+llmasm
+```
+
+🧩 AST agent-graph mapping &nbsp;•&nbsp; 🕵️ shadow API fuzzing &nbsp;•&nbsp; ⚖️ LLM-as-a-judge verification &nbsp;•&nbsp; 🔁 native SARIF for CI/CD
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ananya-0306/llmasm)
+[![Stars](https://img.shields.io/github/stars/Ananya-0306/llmasm?style=for-the-badge&color=FFD700&labelColor=000)](https://github.com/Ananya-0306/llmasm/stargazers)
+
+> 🎯 Built for authorized testing and AI security research — point it at your own stack, not someone else's.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 root@ananya:~$ loadout
+
+<div align="center">
+
+**security & grc**
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000?style=for-the-badge&logo=owasp&logoColor=white)
+![ISO27001](https://img.shields.io/badge/ISO%2027001-000?style=for-the-badge)
+![PCI DSS](https://img.shields.io/badge/PCI%20DSS-000?style=for-the-badge)
+![SOC 2](https://img.shields.io/badge/SOC%202-000?style=for-the-badge)
+![NIST](https://img.shields.io/badge/NIST-000?style=for-the-badge)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-000?style=for-the-badge)
+![CVSS](https://img.shields.io/badge/CVSS-000?style=for-the-badge)
+
+**identity & auth**
+![IAM](https://img.shields.io/badge/IAM-000?style=for-the-badge)
+![OIDC](https://img.shields.io/badge/OIDC-000?style=for-the-badge)
+![SAML](https://img.shields.io/badge/SAML-000?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-000?style=for-the-badge)
+
+**cloud & infra**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**vapt & testing**
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000?style=for-the-badge)
+![Nexpose](https://img.shields.io/badge/Nexpose-000?style=for-the-badge)
+
+**siem & monitoring**
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+**automation & code**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-000?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📡 root@ananya:~$ stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ananya-0306&show_icons=true&hide_title=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2ECC71&icon_color=2ECC71&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-0306&layout=compact&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2ECC71&text_color=c9d1d9" width="38%" />
+
+<img src="https://streak-stats.demolab.com?user=Ananya-0306&theme=dark&hide_border=true&background=0d1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" width="60%" />
+</div>
+
+---
+
+<div align="center">
+
+```
+$ tail -f intentions.log
+[+] mapping AI attack surfaces
+[+] writing it up on Hashnode
+[+] always down to talk red teaming, IAM, or both
+[+] connect ↑ — DMs open
+```
+
+<sub>⭐ if you've made it this far, go star <a href="https://github.com/Ananya-0306/llmasm">llmasm</a> — it remembers</sub>
+
+</div>
